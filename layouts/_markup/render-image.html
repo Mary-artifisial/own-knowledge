@@ -1,0 +1,25 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text | default "" -}}
+{{- $caption := .Title | default "" -}}
+{{- $class := .Attributes.class | default "" -}}
+
+{{- if and (not (strings.HasPrefix $src "https://")) (not (strings.HasPrefix $src "http://")) -}}
+    {{- if not (strings.HasPrefix $src "/") -}}
+        {{- $src = printf "%s/%s%s" site.Params.assetBaseUrl .Page.File.Dir $src -}}
+    {{- else -}}
+        {{- $src = printf "%s%s" site.Params.assetBaseUrl $src -}}
+    {{- end -}}
+{{- end -}}
+
+<figure>
+    <img
+        class="lazy {{ $class }}" loading="lazy"
+        src="{{ $src }}" alt="{{ $alt }}"
+        data-libra
+    />
+    {{- if $caption }}
+    <figcaption>
+        <h4>{{ $caption | markdownify }}</h4>
+    </figcaption>
+    {{- end }}
+</figure>

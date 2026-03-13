@@ -1,0 +1,11 @@
+{{ if eq .Site.Language.Lang "zh" }}
+<nav id="home-nav" class="relative w-full ps-0 flex list-none gap-4 text-size-sm">
+    {{ range .Site.Params.homenav }}
+        {{ partial "home/home-nav-item" (dict
+            "text" .name
+            "link" .link
+            "active" (eq .link $.Page.RelPermalink)
+        ) }}
+    {{ end }}
+</nav>
+{{ end }}

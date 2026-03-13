@@ -1,0 +1,36 @@
+assetBaseUrl: "https://r2.eltr.ac/geedeapro"
+logo: "/header.png"
+
+author:
+    email: hi@eltr.ac
+    name: Eltrac
+    avatar: /profile.jpg
+email: hi@eltr.ac
+
+mainSections:
+  - essays
+  - posts
+  - fictions
+  - library
+favicon: /favicon.png
+footerExternalLinks:
+  - name: RSS Feed
+    link: /index.xml
+    icon: /img/rss.svg
+  - name: Fediverse
+    link: https://akk.eltr.ac/eltrac
+    icon: /img/fediverse.png
+  - name: GitHub
+    link: https://github.com/BigCoke233/geek-death-project
+    icon: https://r2.eltr.ac/uPic/2025/01/NqL5b5.png
+giscus:
+  repo: BigCoke233/geek-death-project
+  repoId: R_kgDONPoyVw
+  category: General
+  categoryId: DIC_kwDONPoyV84Clumc
+  mapping: og:title
+  strict: 1
+  reactionsEnabled: 0
+  emitMetadata: 0
+  inputPosition: top
+  theme: preferred_color_scheme

@@ -1,0 +1,32 @@
+description: 欢迎来访，这里只有真情流露和赤裸的思考。
+nav:
+  - name: 精选
+    link: /featured/
+  - name: 搜寻
+    link: /categories/
+  - name: 林卷
+    link: /linkroll/
+  - name: 自述
+    link: /about/
+homenav:
+  - name: 所有
+    link: /
+  - name: 结构
+    link: /essays/
+  - name: 倾泻
+    link: /posts/
+  - name: 书目
+    link: /library/
+  - name: 假想
+    link: /fictions/
+footerInternalLinks:
+  - name: 罐子
+    link: https://jar.geedea.pro/
+  - name: 标记
+    link: /highlights/
+  - name: 器用
+    link: /uses/
+  - name: 赞助
+    link: /sponsor/
+  - name: 开往
+    link: https://www.travellings.cn/go.htmlx

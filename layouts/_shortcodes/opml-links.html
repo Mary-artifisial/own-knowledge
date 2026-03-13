@@ -1,0 +1,25 @@
+{{ $opml := .Site.Data.rss }}
+
+{{ range $zone := $opml.body.outline }}
+  {{ $title := index $zone "-title" }}
+  {{ if ne $title "Zone 1 - 家" }}
+  <h2 class="text-xl font-semibold mb-4" style="color: var(--text-color);">
+    {{ $title }}
+  </h2>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+  {{ range shuffle $zone.outline }}
+    {{ $url := index . "-htmlUrl" }}
+    {{ $parts := split $url "/" }}
+    {{ $url := printf "%s//%s/" (index $parts 0) (index $parts 2) }}
+    <a href="{{ $url }}" target="_blank"
+       class="block rounded-md overflow-hidden box-border p-4"
+       style="background-color: var(--block-background-color);
+              color: var(--text-color);
+              text-decoration: none;">
+      <h3 class="m-0 text-lg font-medium">{{ index . "-title" }}</h3>
+    </a>
+  {{ end }}
+  </div>
+  {{ end }}
+{{ end }}

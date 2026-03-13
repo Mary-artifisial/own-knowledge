@@ -1,0 +1,18 @@
+{{ define "main" }}
+    <article>
+      {{ partial "header" . }}
+
+      <div class="markdown-content" style="line-height: 2">
+          {{ .Content }}
+      </div>
+
+      <section id="featured-posts">
+          <div class="posts-list">
+            {{ range .Site.Taxonomies.tags.精选 }}
+            {{ partial "items/post" (dict "ctx" . ) }}
+            {{ end }}
+          </div>
+      </section>
+    </article>
+{{ partial "footer.html" . }}
+{{ end }}

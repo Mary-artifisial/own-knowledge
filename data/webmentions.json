@@ -1,0 +1,304 @@
+{
+  "/essays/git-with-trolley/": [
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "HPCesia :verified_misskey_gradiant:",
+        "photo": "https://assets.myce.li/media/a2f60490-8942-4785-8f41-1897b62ead7a.webp",
+        "url": "https://myce.li/@hpcesia"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B2SrMd81p5YIsaDJ8i",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrMd81p5YIsaDJ8i",
+      "published": null,
+      "received": "2026-02-11T04:11:21Z",
+      "content": null
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "J.sky",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/4aa7e000ead9c2de54c6e4e1a83c0f3f371e8ad1994123a86067fdfbf8dc0655.jpg",
+        "url": "https://mastodon.social/@J_sky"
+      },
+      "url": "https://mastodon.social/@J_sky/116049628747974714",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B3CJiHwbS3xvwIvEC8",
+      "published": "2026-02-11T02:26:45+00:00",
+      "received": "2026-02-11T02:53:56Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://akk.eltr.ac/users/eltrac\" class=\"u-url\">@<span>eltrac</span></a></span> 还好哲学家大多不写代码，不然写的代码和文档也不知道别人能不能看懂。</p>",
+        "text": "@eltrac 还好哲学家大多不写代码，不然写的代码和文档也不知道别人能不能看懂。"
+      }
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "J.sky",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/4aa7e000ead9c2de54c6e4e1a83c0f3f371e8ad1994123a86067fdfbf8dc0655.jpg",
+        "url": "https://mastodon.social/@J_sky"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B38w5506lDT25A15KS",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B38w5506lDT25A15KS",
+      "published": null,
+      "received": "2026-02-11T02:53:56Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "CaohuaK :mop_011:",
+        "photo": "https://avatars.webmention.io/moon.lonewolf.zone/6dc3e472df30728672755039334464acff174cc0c21d67b357efa875a72cfd1e.jpg",
+        "url": "https://moon.lonewolf.zone/users/caohuak"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B2SrbzldvytzR84O3c",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrbzldvytzR84O3c",
+      "published": null,
+      "received": "2026-02-11T02:16:59Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "Doin的赛博空间 ⁂ :verified:",
+        "photo": "https://avatars.webmention.io/c7.io/20f5055af61e347d2cb34945c2b99efb207f90c98b5eaa9278618af19aeacd8f.jpg",
+        "url": "https://c7.io/@doin"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B2SrMh01QnWasuUyDQ",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrMh01QnWasuUyDQ",
+      "published": null,
+      "received": "2026-02-11T01:09:36Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "五葉地錦",
+        "photo": "https://avatars.webmention.io/media.glowisle.me/0c3c50d2c46f0b07829eb0a956be90022ae1bbf46e1163fc65eb70ca86ca40a5.jpg",
+        "url": "https://akk.glowisle.me/users/verdant"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B35EVEQHNBwHNO2Q3E",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B35EVEQHNBwHNO2Q3E",
+      "published": null,
+      "received": "2026-02-10T19:03:32Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "Cytrogen",
+        "photo": "https://avatars.webmention.io/media.otter.homes/310ced382f23dbe7131a3693f6c23b83c4c4a8ff66b84ce6494cc51720597349.jpg",
+        "url": "https://m.otter.homes/@Cytrogen"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B2SrMPFJRD3np7VvY8",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrMPFJRD3np7VvY8",
+      "published": null,
+      "received": "2026-02-10T18:12:05Z",
+      "content": null
+    },
+    {
+      "type": "repost-of",
+      "author": {
+        "type": "card",
+        "name": "H3arn ????????",
+        "photo": "https://avatars.webmention.io/public.nyaone-object-storage.com/eb39f473184a9b0e1396278e7d8bc22431dcd46b344838c1e282c55299271695.jpg",
+        "url": "https://nya.one/@H3arn"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#reblogged-by-B2TyC45k807m9j0v7w",
+      "source": "https://brid.gy/repost/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2TyC45k807m9j0v7w",
+      "published": null,
+      "received": "2026-02-10T16:46:51Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "KipJayChou ⁂",
+        "photo": "https://avatars.webmention.io/files.mstdn.feddit.social/b3a5ebdc7764c92d0a28a39ee05451f98685bd5f10185dc981856443952aa13c.png",
+        "url": "https://mstdn.feddit.social/@admin"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#favorited-by-B2SrMy0eBj7rdlvD3A",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrMy0eBj7rdlvD3A",
+      "published": null,
+      "received": "2026-02-10T16:45:47Z",
+      "content": null
+    },
+    {
+      "type": "repost-of",
+      "author": {
+        "type": "card",
+        "name": "KipJayChou ⁂",
+        "photo": "https://avatars.webmention.io/files.mstdn.feddit.social/b3a5ebdc7764c92d0a28a39ee05451f98685bd5f10185dc981856443952aa13c.png",
+        "url": "https://mstdn.feddit.social/@admin"
+      },
+      "url": "https://akk.eltr.ac/notice/B3BPNmGpuQFSTr1r04#reblogged-by-B2SrMy0eBj7rdlvD3A",
+      "source": "https://brid.gy/repost/mastodon/@eltrac@akk.eltr.ac/B3BPNmGpuQFSTr1r04/B2SrMy0eBj7rdlvD3A",
+      "published": null,
+      "received": "2026-02-10T16:45:46Z",
+      "content": null
+    }
+  ],
+  "/posts/weekly/67/": [
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "网上邻居 :verified_flashing:",
+        "photo": "https://avatars.webmention.io/i-cmx.xuzhou-jiang.su/ef96c2a71a508869ca80ac37a6b4f9493fbb38c1fc0e0fa7bb6994fdc81de4fc.jpg",
+        "url": "https://cmx.xuzhou-jiang.su/@Network"
+      },
+      "url": "https://akk.eltr.ac/notice/B388uh0aDHM31OekIC#favorited-by-B2T1lueEp1mBzpyRCy",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B2T1lueEp1mBzpyRCy",
+      "published": null,
+      "received": "2026-02-10T04:15:51Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "KipJayChou ⁂",
+        "photo": "https://avatars.webmention.io/files.mstdn.feddit.social/b3a5ebdc7764c92d0a28a39ee05451f98685bd5f10185dc981856443952aa13c.png",
+        "url": "https://mstdn.feddit.social/@admin"
+      },
+      "url": "https://akk.eltr.ac/notice/B388uh0aDHM31OekIC#favorited-by-B2SrMy0eBj7rdlvD3A",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B2SrMy0eBj7rdlvD3A",
+      "published": null,
+      "received": "2026-02-09T15:13:36Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "J.sky",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/4aa7e000ead9c2de54c6e4e1a83c0f3f371e8ad1994123a86067fdfbf8dc0655.jpg",
+        "url": "https://mastodon.social/@J_sky"
+      },
+      "url": "https://akk.eltr.ac/notice/B388uh0aDHM31OekIC#favorited-by-B38w5506lDT25A15KS",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38w5506lDT25A15KS",
+      "published": null,
+      "received": "2026-02-09T11:31:41Z",
+      "content": null
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "lok :l3:",
+        "photo": "https://rex.cat/fileserver/01QQK4FHH1T4CDKX7SYB35KPSF/attachment/original/01KAMR51B7SVYB32S0BK85NQ7M.png",
+        "url": "https://rex.cat/@lok"
+      },
+      "url": "https://akk.eltr.ac/notice/B388uh0aDHM31OekIC#favorited-by-B2SrMficC20SudLYRc",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B2SrMficC20SudLYRc",
+      "published": null,
+      "received": "2026-02-09T04:39:52Z",
+      "content": null
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "Eltrac :wvrnKnife:",
+        "photo": "https://avatars.webmention.io/akk-media.eltr.ac/96fdded4db077fd77188a2ca1427f357b0fda90f141c58c9bac3e1706c050c2a.jpg",
+        "url": "https://akk.eltr.ac/users/eltrac"
+      },
+      "url": "https://akk.eltr.ac/notice/B38Ko1mjlaKesklh2m",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38Ko1mjlaKesklh2m",
+      "published": "2026-02-09T04:20:11+00:00",
+      "received": "2026-02-09T04:39:49Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a class=\"u-url\" href=\"https://myce.li/@chlorine\">@<span>chlorine</span></a></span> 感谢用心的回复，有受到启发。我确实没有指望科技公司会做出改变，离开也是我想要采取的措施，只是还需要一些时间。</p>",
+        "text": "@chlorine 感谢用心的回复，有受到启发。我确实没有指望科技公司会做出改变，离开也是我想要采取的措施，只是还需要一些时间。"
+      }
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "Eltrac :wvrnKnife:",
+        "photo": "https://avatars.webmention.io/akk-media.eltr.ac/96fdded4db077fd77188a2ca1427f357b0fda90f141c58c9bac3e1706c050c2a.jpg",
+        "url": "https://akk.eltr.ac/users/eltrac"
+      },
+      "url": "https://akk.eltr.ac/notice/B38L7Dvkpmce3K8hJQ",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38L7Dvkpmce3K8hJQ",
+      "published": "2026-02-09T04:23:39+00:00",
+      "received": "2026-02-09T04:39:48Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a class=\"u-url\" href=\"https://rex.cat/@lok\">@<span>lok</span></a></span> I heard of it. It was also mentioned in that <a href=\"https://lord.io/leaving-github/\">article</a></p><p>I like sourcehut’s UI. It’s good. But it’s a for-profit service ($4~$12/mo). I would pay for it if needed, but for now I’ll just use my own Forgejo instance. Thanks for the recommendation!</p>\n<a href=\"https://lord.io/leaving-github/\">A Programmer's Guide to Leaving GitHub</a>",
+        "text": "@lok I heard of it. It was also mentioned in that article\n\nI like sourcehut’s UI. It’s good. But it’s a for-profit service ($4~$12/mo). I would pay for it if needed, but for now I’ll just use my own Forgejo instance. Thanks for the recommendation!\nA Programmer's Guide to Leaving GitHub"
+      }
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "lok :l3:",
+        "photo": "https://rex.cat/fileserver/01QQK4FHH1T4CDKX7SYB35KPSF/attachment/original/01KAMR51B7SVYB32S0BK85NQ7M.png",
+        "url": "https://rex.cat/@lok"
+      },
+      "url": "https://rex.cat/@lok/statuses/01KH09HRE3R1XE77BA50YE9YKQ",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38K1hyW7HaHXhEnSK",
+      "published": "2026-02-09T04:11:27+00:00",
+      "received": "2026-02-09T04:39:31Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://akk.eltr.ac/users/eltrac\" class=\"u-url\">@<span>eltrac</span></a></span> Have u ever tried sr.ht (SourceHut)? I think u might like it! <img alt=\"happy\" src=\"https://rex.cat/fileserver/01RE9Y7N8ZQW9T8ZFBJRCNB38F/emoji/original/01KERSRBGVZQ4SN7R3RTRPYFAG.gif\" /></p>",
+        "text": "@eltrac Have u ever tried sr.ht (SourceHut)? I think u might like it!"
+      }
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "Chlorine",
+        "photo": "https://assets.myce.li/media/3ccc1ee7-febc-4f3e-9211-f9604326e403.webp",
+        "url": "https://myce.li/@chlorine"
+      },
+      "url": "https://myce.li/notes/aii7p62pzyn8002b",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38JN32wruC91OvErQ",
+      "published": "2026-02-09T04:04:05+00:00",
+      "received": "2026-02-09T04:39:30Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a class=\"u-url\" href=\"https://akk.eltr.ac/users/eltrac\">@<span>eltrac</span></a></span> </p><blockquote><p>在得知 GitHub 竟然和 ICE（美国的移民和海关执法部门）有合作关系之后，我气愤得直接在电脑面前吼出声来。</p></blockquote><p>能理解当时 Eltrac 的心情。我也不关心政治和时事，但对 ICE 的许多行为我也感到不适。</p><p>我们姑且不谈 GitHub 和 ICE 的合作是否「道德」（这涉及到「技术公司和技术基础设施是否应当中立」这类能吵上三天三夜的问题），从「在商言商」的角度说这是符合逻辑的。GitHub 是微软的一部分，它是一个逐利的商业实体，对它有任何其他的道德要求（比如说「GitHub 托管了大量的 FLOSS 项目，因此它应当具有和这项伟大事业同样的道德水准」）都是不理智的，甚至是幼稚的。</p><p>那既然如此，我们也该用“商业”的方式去表达我们的不满：不是呼吁，是退出。去给 Codeberg 捐钱，去自托管自己的 Forgejo 和 CGit，去否认它作为所谓「开源首都」的合法性，去自立一个激进的、符合我们理想的自由地区。</p>",
+        "text": "@eltrac 在得知 GitHub 竟然和 ICE（美国的移民和海关执法部门）有合作关系之后，我气愤得直接在电脑面前吼出声来。能理解当时 Eltrac 的心情。我也不关心政治和时事，但对 ICE 的许多行为我也感到不适。\n\n我们姑且不谈 GitHub 和 ICE 的合作是否「道德」（这涉及到「技术公司和技术基础设施是否应当中立」这类能吵上三天三夜的问题），从「在商言商」的角度说这是符合逻辑的。GitHub 是微软的一部分，它是一个逐利的商业实体，对它有任何其他的道德要求（比如说「GitHub 托管了大量的 FLOSS 项目，因此它应当具有和这项伟大事业同样的道德水准」）都是不理智的，甚至是幼稚的。\n\n那既然如此，我们也该用“商业”的方式去表达我们的不满：不是呼吁，是退出。去给 Codeberg 捐钱，去自托管自己的 Forgejo 和 CGit，去否认它作为所谓「开源首都」的合法性，去自立一个激进的、符合我们理想的自由地区。"
+      }
+    },
+    {
+      "type": "in-reply-to",
+      "author": {
+        "type": "card",
+        "name": "lok :l3:",
+        "photo": "https://rex.cat/fileserver/01QQK4FHH1T4CDKX7SYB35KPSF/attachment/original/01KAMR51B7SVYB32S0BK85NQ7M.png",
+        "url": "https://rex.cat/@lok"
+      },
+      "url": "https://rex.cat/@lok/statuses/01KH0AREY4ZZGJ31XH0V4RPTXZ",
+      "source": "https://brid.gy/comment/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B38LueWClmM2hel4W8",
+      "published": "2026-02-09T04:32:35+00:00",
+      "received": "2026-02-09T04:39:24Z",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://akk.eltr.ac/users/eltrac\" class=\"u-url\">@<span>eltrac</span></a></span> 我之前也试着用过一段时间，但我感觉我对 Git 的所有理解都被 GitHub塑造了，所以感觉 SourceHut 对我来说有点过于硬核，最近看感觉 Codeberg 不错（好像也是Forgejo 呢），打算迁移一下试试看，不求真的放弃 GitHub 至少多一个选择也是 ok 的 <img alt=\"starringcat\" src=\"https://rex.cat/fileserver/01RE9Y7N8ZQW9T8ZFBJRCNB38F/emoji/original/01KF08SRCDWGM1NNFQ5FHXQKSK.png\" /></p>",
+        "text": "@eltrac 我之前也试着用过一段时间，但我感觉我对 Git 的所有理解都被 GitHub塑造了，所以感觉 SourceHut 对我来说有点过于硬核，最近看感觉 Codeberg 不错（好像也是Forgejo 呢），打算迁移一下试试看，不求真的放弃 GitHub 至少多一个选择也是 ok 的"
+      }
+    },
+    {
+      "type": "like-of",
+      "author": {
+        "type": "card",
+        "name": "五葉地錦",
+        "photo": "https://avatars.webmention.io/media.glowisle.me/0c3c50d2c46f0b07829eb0a956be90022ae1bbf46e1163fc65eb70ca86ca40a5.jpg",
+        "url": "https://akk.glowisle.me/users/verdant"
+      },
+      "url": "https://akk.eltr.ac/notice/B388uh0aDHM31OekIC#favorited-by-B35EVEQHNBwHNO2Q3E",
+      "source": "https://brid.gy/like/mastodon/@eltrac@akk.eltr.ac/B388uh0aDHM31OekIC/B35EVEQHNBwHNO2Q3E",
+      "published": null,
+      "received": "2026-02-09T04:00:10Z",
+      "content": null
+    }
+  ]
+}
